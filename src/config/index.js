@@ -1,37 +1,37 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Front-End Software Engineer',
+  siteTitle: 'Velmurugan | Front-End Software Engineer',
   siteDescription:
     'Design-minded software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Velmurugan, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
 
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleVerification: '',
 
-  name: 'Brittany Chiang',
+  name: 'Velmurugan',
   location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
+  email: 'Velmuruganfrontenddeveloper@gmail.com',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/bchiang7/',
+      url: 'https://github.com/velmuruganfrontend/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7/',
+      url: 'https://www.linkedin.com/in/velmurugan346/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7/',
+      url: 'https://codepen.io/velmuruganfrontend/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7/',
+      url: 'https://www.instagram.com/velu_goutham/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/velmuruganUI/',
     },
   ],
 
@@ -54,7 +54,7 @@ module.exports = {
     },
   ],
 
-  twitterHandle: '@bchiang7',
+  twitterHandle: '@velmuruganUI',
   googleAnalyticsID: 'UA-45666519-2',
 
   headerHeight: 100,
