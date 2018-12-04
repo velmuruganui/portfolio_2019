@@ -92,6 +92,7 @@ const ContentContainer = styled.div`
   ${media.thone`padding-left: 0;`};
 `;
 const TabContent = styled.div`
+  outline: 0;
   top: 0;
   left: 0;
   width: 100%;

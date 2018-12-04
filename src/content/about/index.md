@@ -2,20 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript
-  - TypeScript
-  - HTML & CSS
+  - JavaScript(ES6)
+  - HTML5 & CSS3
   - React
+  - Redux
   - Gatsby
-  - Ember
-  - Jekyll
-  - Craft
-  - Wordpress
-  - Timber
+  - Responsive Web Design
+  - Digital Marketing
 ---
 
-Hey there! I'm a software engineer who enjoys working at the intersection of engineering and design. I build exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces while also being scalable and efficient behind the scenes.
+Hey there! I'm a software engineer passionate in Frontend development. I'm always Web pages & Hybird application addict.Every designs will complete with pixel-perfect
 
-I graduated from [Northeastern University](https://www.ccis.northeastern.edu/) with my bachelor's in 2018, and for the past 5+ years, I've been honing my skills in web development. I enjoy constantly learning and improving my skills with the technologies that keep evolving in this ever-changing field!
+I graduated from [Anna University](https://www.annauniv.edu/) with my bachelor's in 2014, And now 4+ years experience in web & Mobile application.
 
 Here's a few things I'm experienced with:

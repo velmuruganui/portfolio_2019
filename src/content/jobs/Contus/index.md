@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - Dec 2017'
-url: 'https://www.apple.com/music/'
+date: '15-02-2016'
+title: 'UI Developer'
+company: 'Contus'
+location: 'Chennai, India'
+range: 'Feb 2016 - July 2018'
+url: 'https://www.contus.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
