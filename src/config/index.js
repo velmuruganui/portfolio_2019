@@ -1,10 +1,9 @@
 module.exports = {
   siteTitle: 'Velmurugan | Front-End Software Engineer',
-  siteDescription:
-    'Design-minded software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+  siteDescription: 'Design-minded software engineer based in chennai, india, Pixel perfect design.',
   siteKeywords:
-    'Velmurugan, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'Velmurugan, Velmuruganui, Velmuruganfrontend, software engineer, front-end engineer, web developer, javascript, chennai, india',
+  siteUrl: 'https://www.velmuruganui.com/',
   siteLanguage: 'en_US',
 
   googleVerification: '',
