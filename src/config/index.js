@@ -55,7 +55,7 @@ module.exports = {
   ],
 
   twitterHandle: '@velmuruganUI',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'UA-130506502-1',
 
   headerHeight: 100,
 
