@@ -1,15 +1,15 @@
 ---
 date: '2018-04-01'
-title: 'blistabloc'
-cover: './blistabloc.png'
+title: 'Energi life'
+cover: './energilife.png'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://energi.life/'
 tech:
-  - Wordpress
-  - Timber
-  - SCSS
+  - Angular
+  - Material Bootstrap
   - JS
-  - PHP
+  - Css3
+  - Html5
 ---
 
-Custom wordpress theme built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Energi Life. ... Energi offers the BEST classes all in ONE place. ... Energi Coach gives you a personalized wellness plan, so you can see your schedule planned.
