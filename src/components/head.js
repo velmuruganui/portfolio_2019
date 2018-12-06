@@ -29,6 +29,7 @@ const Head = ({ metaData }) => (
     <meta name="description" content={metaData.description} />
     <meta name="keywords" content={config.siteKeywords} />
     <meta name="google-site-verification" content={config.googleVerification} />
+    <meta name="google-site-verification" content="A9swQqODeDXX7-A--r80h6qG7NxS5U9v8-42iMW-1Sw" />
     <meta property="og:title" content={metaData.title} />
     <meta property="og:description" content={metaData.description} />
     <meta property="og:type" content="website" />
