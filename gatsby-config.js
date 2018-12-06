@@ -16,7 +16,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'velmurugan-Portfolio',
+        name: 'velmuruganui',
         short_name: 'Velmurugan',
         start_url: '/',
         background_color: config.darkNavyColor,

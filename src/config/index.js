@@ -9,7 +9,7 @@ module.exports = {
   googleVerification: '',
 
   name: 'Velmurugan',
-  location: 'Boston, MA',
+  location: 'Chennai, India',
   email: 'Velmuruganfrontenddeveloper@gmail.com',
   socialMedia: [
     {
