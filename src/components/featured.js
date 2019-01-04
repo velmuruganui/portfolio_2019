@@ -224,7 +224,7 @@ class Featured extends Component {
               return (
                 <Project key={i} ref={el => (this.revealRefs[i] = el)}>
                   <ContentContainer>
-                    <FeaturedLabel>Featured Project</FeaturedLabel>
+                    <FeaturedLabel>My Previous Projects</FeaturedLabel>
                     <ProjectName>
                       {external ? (
                         <a
