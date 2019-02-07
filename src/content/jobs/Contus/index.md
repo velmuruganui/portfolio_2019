@@ -7,6 +7,6 @@ range: 'Feb 2016 - July 2018'
 url: 'https://www.contus.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Tbuy and Poorvika
-- Working in related products modules
-- Converting Pixel perfect design based on user require
+- Creating painless interactive UIs
+- Writing code declarative & component-based & learn Once, write anywhere
+- And also intresting with Hybirds applications like ( Ionic & React native )
