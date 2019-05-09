@@ -9,10 +9,17 @@ skills:
   - Gatsby
   - Responsive Web Design
   - Digital Marketing
+  - React Native & Ionic (Hybrid apps)
 ---
 
-Hey there! I'm a software engineer passionate in Frontend development. I'm always Web pages & Hybird application addict.Every designs will complete with pixel-perfect
+Hey there! I graduated from [Anna University](https://www.annauniv.edu/) with my bachelor's in 2014
 
-I graduated from [Anna University](https://www.annauniv.edu/) with my bachelor's in 2014, And now 4+ years experience in web & Mobile application.
+I'm a software engineer passionate in Frontend development.
+
+And now 4.7 years experience in web & Mobile application.
+
+My work based on painless to create interactive UIs
+
+And Component-Based if you need easily reusable & Customizable
 
 Here's a few things I'm experienced with:

@@ -7,6 +7,8 @@ range: 'Aug 2018 - Present'
 url: 'https://www.cognizant.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Tbuy and Poorvika
-- Working in related products modules
-- Converting Pixel perfect design based on user require
+- Design pixel printed design
+- Learn new updates in web technologies.
+- Creating painless interactive UIs
+- Writing code declarative & component-based & learn Once, write anywhere
+- And also intresting with Hybirds applications like ( Ionic & React native )

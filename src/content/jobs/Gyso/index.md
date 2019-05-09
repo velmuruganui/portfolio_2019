@@ -7,5 +7,7 @@ range: 'July 2014 - Feb 2016'
 url: 'https://www.gyso.in/'
 ---
 
-- Developed and shipped highly interactive web applications for Tbuy and Poorvika
+- I am starting my carrier in Digital Marketing (OnPage SEO & OffPage SEO).
+- After i am intresting with Frontend, so i will move to Frontend development.
+- Developed and shipped highly interactive web applications like <a href="http://www.tbuy.in/" target="_blank">Tbuy</a> and <a href="http://www.poorvika.in/" target="_blank">Poorvika</a>
 - Working in related products modules
