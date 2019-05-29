@@ -159,7 +159,26 @@ const ResumeLink = styled.a`
   margin-left: 10px;
   font-size: ${fontSizes.smallish};
 `;
-
+const Newwebsite = styled.div`
+  color: red;
+  font-size: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 100vh;
+  top: 0px;
+  writing-mode: vertical-rl;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  a:hover,
+  a:active,
+  a:focus {
+    color: inherit;
+  }
+`;
 const DELTA = 5;
 
 class Header extends Component {
@@ -281,7 +300,11 @@ class Header extends Component {
               </CSSTransition>
             )}
           </TransitionGroup>
-
+          <Newwebsite>
+            <a href="https://musing-elion-7f09ac.netlify.com/" target="_blank">
+              Upcoming portfolio V2
+            </a>
+          </Newwebsite>
           <NavLinks>
             {isHome && (
               <NavList>
