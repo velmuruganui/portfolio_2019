@@ -1,15 +1,15 @@
 ---
-date: '2018-01-01'
-title: 'Dependcare AU'
-cover: './dependcare.png'
+date: '2018-04-01'
+title: 'Energi life'
+cover: './energilife.png'
 github: ''
-external: 'https://www.dependcare.com.au/'
+external: 'https://energi.life/'
 tech:
-  - .Net
-  - Sitecore
-  - Html5
+  - Angular
+  - Material Bootstrap
+  - JS
   - Css3
-  - Sass
+  - Html5
 ---
 
-DEPENDCARE™ is a continence care support program for Healthcare Professionals working in the community.
+Energi Life. ... Energi offers the BEST classes all in ONE place. ... Energi Coach gives you a personalized wellness plan, so you can see your schedule planned.

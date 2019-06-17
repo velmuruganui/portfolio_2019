@@ -1,15 +1,15 @@
 ---
-date: '2018-04-01'
-title: 'Energi life'
-cover: './energilife.png'
+date: '2018-01-01'
+title: 'vplayed'
+cover: './velmuruganportfolio.png'
 github: ''
-external: 'https://energi.life/'
+external: 'https://www.velmuruganui.com/'
 tech:
-  - Angular
-  - Material Bootstrap
-  - JS
-  - Css3
+  - Reactjs
   - Html5
+  - Css3
+  - Javascript (ES6)
+  - Responsive web Design
 ---
 
-Energi Life. ... Energi offers the BEST classes all in ONE place. ... Energi Coach gives you a personalized wellness plan, so you can see your schedule planned.
+Showcase my work to public view in one place and benifits to learn new tech stack and expremental in realtime
