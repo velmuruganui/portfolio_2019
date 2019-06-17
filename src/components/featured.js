@@ -27,14 +27,6 @@ const ContentContainer = styled.div`
   `};
   ${media.phablet`padding: 30px 25px 20px;`};
 `;
-const FeaturedLabel = styled.h4`
-  font-size: ${fontSizes.smallish};
-  font-weight: normal;
-  color: ${colors.green};
-  font-family: ${fonts.SFMono};
-  margin-top: 10px;
-  padding-top: 0;
-`;
 const ProjectName = styled.h5`
   font-size: 28px;
   font-weight: 600;
@@ -224,7 +216,6 @@ class Featured extends Component {
               return (
                 <Project key={i} ref={el => (this.revealRefs[i] = el)}>
                   <ContentContainer>
-                    <FeaturedLabel>My Previous Projects</FeaturedLabel>
                     <ProjectName>
                       {external ? (
                         <a
