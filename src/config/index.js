@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Velmurugan | Front-End Software Engineer',
   siteDescription: 'Design-minded software engineer based in chennai, india, Pixel perfect design.',
   siteKeywords:
-    'Velmurugan, Velmuruganui, Velmuruganfrontend, software engineer, front-end engineer, web developer, javascript, chennai, india',
+    'Velmurugan, Velmuruganui, Velmuruganfrontenddeveloper, software engineer, front-end engineer, web developer, javascript, chennai, india',
   siteUrl: 'https://www.velmuruganui.com/',
   siteLanguage: 'en_US',
 
@@ -10,7 +10,7 @@ module.exports = {
 
   name: 'Velmurugan',
   location: 'Chennai, India',
-  email: 'Velmuruganfrontenddeveloper@gmail.com',
+  email: 'Velmurugan.mg@outlook.com',
   socialMedia: [
     {
       name: 'Github',
