@@ -10,7 +10,7 @@ module.exports = {
 
   name: 'Velmurugan',
   location: 'Chennai, India',
-  email: 'Velmurugan.mg@outlook.com',
+  email: 'Velmurugan161092@gmail.com',
   socialMedia: [
     {
       name: 'Github',
