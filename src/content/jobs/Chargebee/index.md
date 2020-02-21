@@ -1,10 +1,10 @@
 ---
-date: '13-08-2018'
-title: 'Senior UI Developer'
-company: 'Cognizant'
+date: '12-02-2020'
+title: 'Frontend Developer'
+company: 'Chargebee'
 location: 'Chennai, India'
-range: 'Aug 2018 - Feb 2020'
-url: 'https://www.cognizant.com/'
+range: 'Feb - Present'
+url: 'https://www.chargebee.com/'
 ---
 
 - Design pixel printed design
